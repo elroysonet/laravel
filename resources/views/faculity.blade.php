@@ -39,15 +39,23 @@
     <div class="row">
     <div class="col col-12 col-sm-8 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
     <tr>
-        <td>Name</td>
+        <td>Faculity Name</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>RollNo</td>
+        <td>Department</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Admission No</td>
+        <td>Address</td>
+        <td><input type="text" class="form-control"></td>
+    </tr>
+    <tr>
+        <td>Phone</td>
+        <td><input type="text" class="form-control"></td>
+    </tr>
+    <tr>
+        <td>Qualfication</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>

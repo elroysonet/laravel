@@ -43,17 +43,14 @@
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>RollNo</td>
+        <td>Message</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Admission No</td>
+        <td>Phone No</td>
         <td><input type="text" class="form-control"></td>
     </tr>
-    <tr>
-        <td>College</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
+    
     <tr>
         <td></td>
         <td><button class="btn btn-outline-warning">SUBMIT</button></td>
@@ -67,8 +64,6 @@
     </div>
     </table>
     </div>
-
-    
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
 </body>
 </html>
